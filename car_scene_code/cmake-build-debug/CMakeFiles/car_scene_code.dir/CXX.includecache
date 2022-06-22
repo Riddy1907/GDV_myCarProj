@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_scene_code/GL/SOIL.h
+
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_scene_code/car.h
+
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_scene_code/main.cpp
+GLUT/glut.h
+-
+GL/glut.h
+-
+GL/SOIL.h
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_scene_code/GL/SOIL.h
+iostream
+-
+cmath
+-
+car.h
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_scene_code/car.h
+terrain.h
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_scene_code/terrain.h
+
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_scene_code/terrain.h
+
