@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_design_v2_press_K_L_Enter_Space/car.cpp
+GLUT/glut.h
+-
+GL/glut.h
+-
+iostream
+-
+cmath
+-
+car.h
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_design_v2_press_K_L_Enter_Space/car.h
+
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_design_v2_press_K_L_Enter_Space/car.h
+
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_design_v2_press_K_L_Enter_Space/main.cpp
+GLUT/glut.h
+-
+GL/glut.h
+-
+iostream
+-
+math.h
+-
+car.h
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_design_v2_press_K_L_Enter_Space/car.h
+
