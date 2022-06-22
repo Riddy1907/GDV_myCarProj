@@ -1,0 +1,3 @@
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_design_v3_withTexture_need_SOIL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_design_v3_withTexture_need_SOIL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ridvan/dev/CLionProjects/GDV_Projekte/car_design_v3_withTexture_need_SOIL/cmake-build-debug/CMakeFiles/car_design.dir
